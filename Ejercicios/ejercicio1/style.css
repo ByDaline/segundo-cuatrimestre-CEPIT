@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.car-rickandmorty {
+    margin-left: 2.5%;
+}
